@@ -1,0 +1,23 @@
+{
+  "name": "Budgety",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rizwan230698/Budgety.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rizwan230698/Budgety/issues"
+  },
+  "homepage": "https://github.com/rizwan230698/Budgety",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
